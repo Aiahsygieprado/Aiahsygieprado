@@ -1,0 +1,14 @@
+$ termux-setup-storage
+$ apt upgrade
+$ apt update
+$ pkg update
+$ pkg upgrade
+$ pkg install bash
+$ pkg install git
+$ pip install requests
+$ pip install bs4
+$ pkg install neofetch
+$ pkg install curl
+$ pkg install python
+$ pkg install python2
+$ pkg install python3
